@@ -1,4 +1,4 @@
-# ⚡ QR Studio Pro — Modern QR Code Generator & Scanner SaaS
+# ⚡ QR Studio Pro — Production-Ready QR Code Generator & Scanner SaaS
 
 <div align="center">
 
@@ -12,16 +12,33 @@
 
 <br/>
 
-**A lightning-fast, privacy-focused, production-ready QR Code Studio & Scanner designed for creators, businesses, and developers.**  
-Generate high-DPI vector QR codes, customize patterns, gradients, and brand logos, audit real-time scannability, scan codes via camera, and export in PNG, SVG, PDF, and JPG — 100% client-side with zero tracking.
+**⚡ Next-generation, 100% client-side QR Code Studio & Scanner built with React 18, TypeScript & Tailwind CSS. Generate high-DPI vector SVG, PDF, and PNG codes with custom patterns, gradients, brand logos, AI assistant, scannability scoring, and WebRTC camera scanning.**
 
-[**🌐 Open Live App**](https://codexanjan.github.io/qr-code-generator/) • [**✨ Report Bug / Feature Request**](https://github.com/codexanjan/qr-code-generator/issues)
+[**🌐 Open Live Application**](https://codexanjan.github.io/qr-code-generator/) • [**✨ Report Bug / Feature Request**](https://github.com/codexanjan/qr-code-generator/issues)
 
 </div>
 
 ---
 
-## 🌟 Highlights & Features
+## 📦 What's Delivered
+
+| Feature | Details |
+| :--- | :--- |
+| **17 QR Types** | URL, Wi-Fi, vCard 3.0, WhatsApp, Instagram, YouTube, LinkedIn, Google Maps, iCal Event, UPI, Crypto, App Stores, etc. |
+| **Visual Customizer** | Square, Rounded, Dots, Classy patterns; Linear/Radial gradients; Custom outer/inner eye shapes; CTA frames ("SCAN ME"). |
+| **Brand Logos** | Upload custom logo + 8 preset brand icons (Wi-Fi, WhatsApp, Instagram, YouTube, GitHub, LinkedIn, Bitcoin, Maps). |
+| **Smart AI Assistant** | Natural language intent processor that auto-picks QR type, fills data, and applies designer styles. |
+| **Scannability Score** | Real-time 0–100 score analyzing WCAG color contrast, module density, and logo occlusion. |
+| **Multi-Format Export** | High-DPI PNG (up to 4096px), infinite vector SVG, print-ready PDF, and compact JPG. |
+| **WebRTC Scanner** | Live camera scanner + image file decoder with audio chime and instant copy/open drawer. |
+| **Batch Generator** | Paste multiple links to generate and download a `.ZIP` archive of QR codes. |
+| **A/B Design Compare** | Side-by-side design comparison tool. |
+| **Local History & Templates** | 12+ pre-made templates and auto-saved browser history with JSON export. |
+| **PWA & Privacy** | 100% client-side execution with offline capability and web app manifest. |
+
+---
+
+## 🌟 Detailed Features Overview
 
 ### 🚀 17+ Supported QR Code Types
 * 🌐 **Website URL** — Web links, landing pages, articles with auto-formatting
@@ -115,13 +132,17 @@ npm run build
 
 ---
 
-## 🌐 Deployment to GitHub Pages
+## 🌐 GitHub Pages Deployment
 
-1. In your GitHub repository **Settings** > **Pages**.
-2. Under **Build and deployment** > **Source**, choose **GitHub Actions**.
-3. Pushes to `main` will automatically build and publish the application to `https://codexanjan.github.io/qr-code-generator/`.
+Your application is configured for deployment:
+1. Open your repository **[Settings > Pages](https://github.com/codexanjan/qr-code-generator/settings/pages)**.
+2. Under **Build and deployment**:
+   - **Source**: Select **Deploy from a branch**
+   - **Branch**: Select **`gh-pages`** / **`/ (root)`**
+   - Click **Save**.
+3. Live site: **[https://codexanjan.github.io/qr-code-generator/](https://codexanjan.github.io/qr-code-generator/)**
 
-Alternatively, run:
+To deploy manually at any time:
 ```bash
 npm run deploy
 ```
