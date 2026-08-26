@@ -1,0 +1,21 @@
+{
+  "name": "QR Studio Pro - QR Code Generator & Scanner",
+  "short_name": "QR Studio Pro",
+  "description": "Professional client-side QR code generator, designer, and camera scanner.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#3b62f6",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 192 192%22 width=%22192%22 height=%22192%22><rect width=%22192%22 height=%22192%22 rx=%2240%22 fill=%22%233b62f6%22/><path d=%22M48 48h38v38H48zM106 48h38v38H106zM48 106h38v38H48zM125 106h19v19H125zM106 125h19v19H106zM125 125h19v19H125z%22 fill=%22white%22/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 512 512%22 width=%22512%22 height=%22512%22><rect width=%22512%22 height=%22512%22 rx=%22100%22 fill=%22%233b62f6%22/><path d=%22M128 128h102v102H128zM282 128h102v102H282zM128 282h102v102H128zM333 282h51v51H333zM282 333h51v51H282zM333 333h51v51H333z%22 fill=%22white%22/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
