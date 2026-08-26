@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://anjxnnshetty.github.io/qr-code-generator",
+  "homepage": "https://codexanjan.github.io/qr-code-generator/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -14,8 +14,8 @@
   "dependencies": {
     "canvas-confetti": "^1.9.4",
     "clsx": "^2.1.1",
-    "jspdf": "^2.5.2",
     "jsqr": "^1.4.0",
+    "jspdf": "^2.5.2",
     "jszip": "^3.10.1",
     "lucide-react": "^1.16.0",
     "qr-code-styling": "^1.9.2",
