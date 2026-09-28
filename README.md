@@ -12,6 +12,12 @@
 
 <br/>
 
+<p align="center">
+  <img src="assets/preview.png" alt="QR Studio Pro Dashboard Preview" width="100%" style="border-radius: 14px; box-shadow: 0 12px 40px rgba(0,0,0,0.5);" />
+</p>
+
+<br/>
+
 **⚡ Next-generation, 100% client-side QR Code Studio & Scanner built with React 18, TypeScript & Tailwind CSS. Generate high-DPI vector SVG, PDF, and PNG codes with custom patterns, gradients, brand logos, AI assistant, scannability scoring, and WebRTC camera scanning.**
 
 [**🌐 Open Live Application**](https://codexanjan.github.io/qr-code-generator/) • [**✨ Report Bug / Feature Request**](https://github.com/codexanjan/qr-code-generator/issues)
