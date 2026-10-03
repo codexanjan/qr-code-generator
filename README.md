@@ -4,6 +4,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Studio-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codexanjan.github.io/qr-code-generator/)
 [![GitHub Stars](https://img.shields.io/github/stars/codexanjan/qr-code-generator?style=for-the-badge&logo=github&color=f59e0b)](https://github.com/codexanjan/qr-code-generator/stargazers)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://qr-studio-pro.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-10b981?style=for-the-badge)](https://github.com/codexanjan/qr-code-generator/blob/main/LICENSE)
 [![React](https://img.shields.io/badge/React-18.3-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -163,4 +164,14 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 
 <div align="center">
   <sub>Built with ❤️ by <a href="https://github.com/codexanjan">codexanjan</a></sub>
+</div>
+
+---
+
+<div align="center">
+
+Made with ❤️ by [Anjan Shetty](https://github.com/codexanjan)
+
+[![GitHub](https://img.shields.io/badge/GitHub-codexanjan-181717?style=flat&logo=github)](https://github.com/codexanjan)
+
 </div>
